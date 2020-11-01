@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-arch-xfce-dconf
+Credit to: https://github.com/arcolinux
